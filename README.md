@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Marco. 
 
-#### Atuo principalmente como backend, atuando com node principalmente. Gosto de trabalhar com pessoas para alcançarem o melhor de si. Profissional com foco no desenvolvimento pessoal.
+#### Atuo como backend, atuando com node principalmente. Gosto de trabalhar com pessoas para alcançarem o melhor de si. Profissional com foco no desenvolvimento pessoal.
  <div>
   <a href="https://github.com/MarcoLimaSistemas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoLimaSistemas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
