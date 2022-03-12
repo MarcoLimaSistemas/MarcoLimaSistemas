@@ -1,6 +1,6 @@
 ## Olá ! Eu sou o Marco. 
 
-#### Atuo como backend, com node principalmente. Desenvolvo aplicações fullstack desde 2017 com as principais ferramentas do mercado. Desde o inicio da minha jornada JS e TS sempre me auxiliando no front ou no backend tanto para freelas quanto para jobs internos. Gosto especialmente de estudar Clean Architecture para escrever códigos reutilizáveis e testáveis 
+#### Atuo como backend, com node principalmente. Desenvolvo aplicações fullstack desde 2017 com as principais ferramentas do mercado. Gosto especialmente de estudar Clean Architecture para escrever códigos reutilizáveis e testáveis.
  <div>
   <a href="https://github.com/MarcoLimaSistemas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoLimaSistemas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
