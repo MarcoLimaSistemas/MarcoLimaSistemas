@@ -21,6 +21,6 @@
  
 <div>     
   <a href = "https://api.whatsapp.com/send?phone=5521968093049&text=Ol%C3%A1%2C%20Marco." ><img height="30" width="70" src="https://icongr.am/fontawesome/whatsapp.svg?size=128&color=4e9a06" target="_blank"></a>
-   <a href = "mailto:marcolimasistemas@gmail.com" ><img height="30" width="70" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/marco-antonio-alves-a3993b159/"><img height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" target="_blank"></a>
+   <a href = "mailto:marcolimasistemas@gmail.com" ><img height="30" width="70" src="https://icongr.am/fontawesome/envelope-square.svg?size=128&color=3465a4" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/marco-antonio-alves-a3993b159/"><img height="30" width="70" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" target="_blank"></a>
 </div>
